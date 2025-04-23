@@ -42,8 +42,8 @@ const perguntas = [
     },
     {
         texto: "PARABENS! VOCÊ ADQUIRIU TODOS OS EMOJIS !",
-        opcoes: ["Recompensa"],
-        correta: "Recompensa"
+        opcoes: ["Retirar a recompensa"],
+        correta: "Retirar a Recompensa"
   
     }
 
