@@ -42,7 +42,7 @@ const perguntas = [
     },
     {
         texto: "PARABENS! VOCÊ ADQUIRIU TODOS OS EMOJIS !",
-        opcoes: ["Retirar a recompensa"],
+        opcoes: ["Retirar a Recompensa"],
         correta: "Retirar a Recompensa"
   
     }
