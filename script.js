@@ -45,6 +45,12 @@ const perguntas = [
         opcoes: ["Retirar a Recompensa"],
         correta: "Retirar a Recompensa"
   
+    },
+    {
+        texto: "Já que você faz parte da nossa vida e dos nossos momentos mais felizes, temos uma novidade muito especial pra te contar ❤️",
+        opcoes: ["Novidade"],
+        correta: "Novidade",
+
     }
 
   ];
