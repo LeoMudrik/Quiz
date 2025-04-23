@@ -4,6 +4,17 @@ body {
     text-align: center;
     padding: 40px;
   }
+
+body {
+  font-size: 18px;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 20px; /* aumenta no celular */
+  }
+}
+
   
   #quiz-container {
     margin-bottom: 30px;
