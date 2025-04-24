@@ -47,7 +47,7 @@ const perguntas = [
   
     },
     {
-        texto: "Já que você faz parte da nossa vida e dos nossos momentos mais felizes, \n\nTemos uma novidade muito especial pra te contar ❤️",
+        texto: "Já que você faz parte da nossa vida e dos nossos momentos mais felizes... \n\nTemos uma novidade muito especial para te contar ❤️",
         opcoes: ["Novidade"],
         correta: "Novidade",
     }
