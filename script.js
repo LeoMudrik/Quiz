@@ -17,7 +17,7 @@ const perguntas = [
         objeto: "❤️"
     },
     {
-        texto: "Destino da ultima viagem juntos?",
+        texto: "Destino da última viagem juntos?",
         opcoes: ["NY", "Espanha", "Cuba"],
         correta: "Cuba",
         objeto: "🚩"
