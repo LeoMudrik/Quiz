@@ -12,7 +12,7 @@ const perguntas = [
     },   
     {
         texto: "Nome do cupido?",
-        opcoes: ["Joao", "Leo", "Pedro"],
+        opcoes: ["Pedro", "Leo", "Joao"],
         correta: "Pedro",
         objeto: "❤️"
     },
@@ -24,7 +24,7 @@ const perguntas = [
     },
     {
         texto: "Nome dos dois filhos de 4 patas?",
-        opcoes: ["Berlim e Barney", "Berlim e Mike", "Mike e Bidu"],
+        opcoes: ["Berlim e Mike", "Berlim e Barney", "Mike e Bidu"],
         correta: "Berlim e Mike",
         objeto: "🐶🐶"
     },
